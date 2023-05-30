@@ -1,3 +1,3 @@
-# tooey
+# Tooey
 
-Component library for Rust TUI apps
+Component library for Rust TUI apps. Inspired by [Bubbles](https://github.com/charmbracelet/bubbles)
